@@ -8,4 +8,4 @@ git clone https://github.com/pctechkid/server.git
 git clone https://github.com/pctechkid/web.git
 git clone https://github.com/pctechkid/webhooks.git
 
-cd pctechkid
+cd libDrive
