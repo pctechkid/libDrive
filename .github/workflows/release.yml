@@ -10,7 +10,7 @@ on:
       server:
         description: "The server repositry clone URL and extra commands"
         required: true
-        default: "libDrive/server"
+        default: "pctechkid/server"
       server-branch:
         description: "The branch of the server repositry to clone"
         required: true
@@ -18,7 +18,7 @@ on:
       web:
         description: "The web repositry clone URL and extra commands"
         required: true
-        default: "libDrive/web"
+        default: "pctechkid/web"
       web-branch:
         description: "The branch of the web repositry to clone"
         required: true
